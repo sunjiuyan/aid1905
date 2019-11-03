@@ -202,7 +202,7 @@ git基本命令
 
 删除分支
     git branch -d [branch_name]
-
+gi
     强制删除没有合并的分支
     git branch -D [branch_name] 
 
