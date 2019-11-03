@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41068533-d51f-44fa-b249-8501744b4d28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Git/git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Git/git.txt" afterDir="false" />
-    </list>
+    <list default="true" id="41068533-d51f-44fa-b249-8501744b4d28" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
   <component name="ProjectId" id="1T5XhwWXlalEg0hFDDO5QwSgEsz" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/aid1905/Git/git.txt" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572751052360</updated>
-      <workItem from="1572751053794" duration="1762000" />
+      <workItem from="1572751053794" duration="2062000" />
     </task>
     <servers />
   </component>
